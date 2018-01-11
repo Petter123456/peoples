@@ -1,0 +1,1 @@
+redirect_to :back ---> redirects to the last page the user was on. Before they had to sign-up
